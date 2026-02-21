@@ -1,5 +1,9 @@
 # Awesome Crystal 💎
 
+
+![logotype_horizontal](https://github.com/user-attachments/assets/c113271a-69a0-4c5d-922c-a45a44da1889)
+
+
 > A curated list of **high-quality** Crystal projects, applications, tutorials, books, and resources.
 
 This list focuses on **actively maintained, real-world, production-ready** items that are excellent for learning or building with Crystal today (updated for 2026).
